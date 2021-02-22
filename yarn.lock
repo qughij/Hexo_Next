@@ -556,13 +556,13 @@ hexo-renderer-ejs@^1.0.0:
   dependencies:
     ejs "^2.6.1"
 
-hexo-renderer-marked@^3.0.0:
-  version "3.3.0"
-  resolved "https://registry.npm.taobao.org/hexo-renderer-marked/download/hexo-renderer-marked-3.3.0.tgz#54bce9f00d356c71392b2fc3a881df7ff6dae8bd"
-  integrity sha1-VLzp8A01bHE5Ky/DqIHff/ba6L0=
+hexo-renderer-marked@^4.0.0:
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/hexo-renderer-marked/-/hexo-renderer-marked-4.0.0.tgz#f6ad880a384be13c7ebc3fc8788f86fafcf15007"
+  integrity sha512-Rc9tPqCEX+UjKhAHF2AmH4FcIqVSW7FTKH6kAhMWAn/WMxrCD3Al+99zKnnbgaLJ6TOCb1ckvB4BRkwk62ITxQ==
   dependencies:
     hexo-util "^2.1.0"
-    marked "^1.0.0"
+    marked "^2.0.0"
 
 hexo-renderer-stylus@^2.0.0:
   version "2.0.1"
@@ -590,6 +590,11 @@ hexo-theme-landscape@^0.0.3:
   version "0.0.3"
   resolved "https://registry.npm.taobao.org/hexo-theme-landscape/download/hexo-theme-landscape-0.0.3.tgz#87d1f4d613da9be5245dad0d4b80479eab70d386"
   integrity sha1-h9H01hPam+UkXa0NS4BHnqtw04Y=
+
+hexo-theme-next@^8.2.0:
+  version "8.2.1"
+  resolved "https://registry.yarnpkg.com/hexo-theme-next/-/hexo-theme-next-8.2.1.tgz#5a408444e8635aa9e76c631c36f56bd8325aa4f5"
+  integrity sha512-0DQPdMFIGTM/kJnpBn1snmYR7qfwaW2VfG/UyKxxLRXDbQeyWMSCr19DqNAKoTdIA33wNqWBzcWk4cGvaQtVZg==
 
 hexo-util@^2.0.0, hexo-util@^2.1.0, hexo-util@^2.4.0:
   version "2.4.0"
@@ -746,10 +751,10 @@ lower-case@^2.0.2:
   dependencies:
     tslib "^2.0.3"
 
-marked@^1.0.0:
-  version "1.2.7"
-  resolved "https://registry.npm.taobao.org/marked/download/marked-1.2.7.tgz#6e14b595581d2319cdcf033a24caaf41455a01fb"
-  integrity sha1-bhS1lVgdIxnNzwM6JMqvQUVaAfs=
+marked@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/marked/-/marked-2.0.0.tgz#9662bbcb77ebbded0662a7be66ff929a8611cee5"
+  integrity sha512-NqRSh2+LlN2NInpqTQnS614Y/3NkVMFFU6sJlRFEpxJ/LHuK/qJECH7/fXZjk4VZstPW/Pevjil/VtSONsLc7Q==
 
 micromatch@^4.0.2:
   version "4.0.2"
